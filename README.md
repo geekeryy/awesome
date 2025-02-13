@@ -35,12 +35,16 @@
   - [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly) WebAssembly文档，主要内容是概念WebAssembly以及不同语言如何编译为wasm
 
 ### 文本编辑
-- [Markdown](https://markdown.com.cn/) markdown官方文档
+- [Markdown语法速查](https://markdown.com.cn) :white_check_mark:
+    - [Github Markdown Emoji 完整列表](https://gist.github.com/rxaviers/7360908)
 
 
-### 工具
-- [渗透测试框架](https://github.com/Manisso/fsociety) 渗透工具
+### 网站
+- [sms-activate](https://sms-activate.guru/cn) 接码平台，支持语言、短信验证
 
-### 软件源
-- [阿里云](https://developer.aliyun.com/mirror) 阿里云镜像源：yum、node、docker等等，操作系统镜像下载
 
+### [工具篇](tools.md)
+
+### [资源篇](resource.md)
+
+### [AI篇](ai.md)
