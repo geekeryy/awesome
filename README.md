@@ -1,5 +1,7 @@
 # awesome
 资料整理，收集好用的工具地址、博客、教程、Github有趣项目，持续更新中！！！
+- 欢迎大家的[PR](https://github.com/geekeryy/awesome/pulls)
+
 
 ### 书籍
 - [高并发的哲学原理](https://pphc.lvwenhan.com/) 
@@ -43,8 +45,41 @@
 - [sms-activate](https://sms-activate.guru/cn) 接码平台，支持语言、短信验证
 
 
-### [工具篇](tools.md)
+### 工具篇
 
-### [资源篇](resource.md)
+> 网络安全
+- [渗透测试框架](https://github.com/Manisso/fsociety) 渗透工具
 
-### [AI篇](ai.md)
+> 邮箱注册
+- [Pinmx](https://pinmx.com/) 随机邮箱注册，免费版本保留邮件48小时，邮箱账户不会被删除，可永久使用，如需自定义域名，可使用[GetMX](https://getmx.com/) 
+- [冷知识](ttps://nies.live/d/51) Google邮箱别名规则介绍
+
+
+> 内网穿透
+- [frp](https://gofrp.org/zh-cn/docs/) frp 是一款高性能的反向代理应用，专注于内网穿透。它支持多种协议
+- [ngrok](https://ngrok.com/) 将本地端口映射到公网，并提供一个临时的https地址
+
+### 资讯篇
+- [Aminer](https://www.aminer.cn/) AI科技情报分析与挖掘平台
+
+### 资源篇
+
+> 软件源
+- [阿里云](https://developer.aliyun.com/mirror) 阿里云镜像源：yum、node、docker等等，操作系统镜像下载
+
+### AI篇
+- [WayToAGI](https://www.waytoagi.com/zh) :star: 全面系统的AI资源收集网站
+
+> Prompt
+- [提示词工程指南](https://github.com/dair-ai/Prompt-Engineering-Guide) :star:  包含与 LLM 快速工程相关的所有最新论文、学习指南、讲座、参考资料和工具 
+
+> 在线AI聊天机器人
+- [通义千问](https://tongyi.aliyun.com/qianwen/) 支持创建智能体，联网查询，有内容丰富的应用市场
+- [ChatGPT](https://chatgpt.com/) 支持创建智能体，联网查询，有内容丰富的应用市场 （$20/month）
+- [Deepseek](https://chat.deepseek.com/) 支持深度推理、联网查询
+- [Claude](https://claude.ai/) 免费版仅支持Claude-Sonnet3.5模型 （$20/month）
+
+> 大模型排行榜
+- [ChatbotArena](https://lmarena.ai/) 开源和闭源大模型排行，通过匿名投票等方式排名
+- [HuggingFace](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) 开源大模型排行，通过常识推理、多任务语言理解、知识问答等方式排名
+- [CLUE](https://www.superclueai.com/) 中文语言理解测评基准，模型的中文理解能力排行
