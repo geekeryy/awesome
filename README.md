@@ -115,3 +115,8 @@
 
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher) 开源LLM深度研究项目
 - [LlamaIndex](https://github.com/run-llama/llama_index) LlamaIndex是在数据上构建LLM能力的开源框架
+
+> Agent开发框架
+
+- [LangChain](https://github.com/langchain-ai/langchain) Agent开发框架
+- [MetaGPT](https://github.com/geekan/MetaGPT) Multi-Agent框架
