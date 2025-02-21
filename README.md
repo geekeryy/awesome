@@ -77,6 +77,7 @@
 
 - [fluent-reader](https://github.com/yang991178/fluent-reader) 开源桌面RSS阅读器
 - [沉浸式翻译](https://immersivetranslate.com/zh-Hans/) Chrome插件，支持PDF翻译，网页翻译
+- [hammerspoon](https://www.hammerspoon.org/) MacOS的自动化工具
 
 ## 资讯篇
 
@@ -91,6 +92,7 @@
 ## AI篇
 
 - [WayToAGI](https://www.waytoagi.com/zh) :star: 全面系统的AI资源收集网站
+- [GeekAGI](https://geek-agi.feishu.cn/wiki/B9rYwwg6xidZYJkbrlscxTQFnOc) AGI知识库
 
 > Prompt
 
