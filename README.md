@@ -100,10 +100,13 @@
 
 > 在线AI聊天机器人
 
-- [通义千问](https://tongyi.aliyun.com/qianwen/) 支持创建智能体，联网查询，有内容丰富的应用市场
-- [Kimi](https://kimi.moonshot.cn/) 支持文件、联网查询
-- [ChatGPT](https://chatgpt.com/) 支持创建智能体，联网查询，有内容丰富的应用市场 （$20/month）
 - [Deepseek](https://chat.deepseek.com/) 支持深度推理、联网查询
+- [QWEN CHAT](https://chat.qwen.ai/) 支持模型切换、深度思考、联网搜索、生成图片和视频、使用工具、面向专业用户
+- [腾讯元宝](https://yuanbao.tencent.com/) 支持深度思考、联网搜索、文件上传
+- [Kimi](https://kimi.moonshot.cn/) 支持文件、联网查询
+- [通义千问](https://tongyi.aliyun.com/qianwen/) 支持创建智能体，联网查询，有内容丰富的应用市场、面向普通用户
+- [ChatGPT](https://chatgpt.com/) 支持创建智能体，联网查询，有内容丰富的应用市场 （$20/month）
+- [Grok](https://grok.com/) 支持深度研究、深度思考、文件查询
 - [Claude](https://claude.ai/) 免费版仅支持Claude-Sonnet3.5模型 （$20/month）
 
 > 大模型排行榜
