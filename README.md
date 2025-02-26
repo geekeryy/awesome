@@ -59,6 +59,10 @@
 
 ## 工具篇
 
+> 破解
+
+- [go-cursor-help](https://github.com/yuaotian/go-cursor-help) cursor无限续杯
+
 > 网络安全
 
 - [渗透测试框架](https://github.com/Manisso/fsociety) 渗透工具
