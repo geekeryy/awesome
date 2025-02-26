@@ -79,6 +79,14 @@
 - [沉浸式翻译](https://immersivetranslate.com/zh-Hans/) Chrome插件，支持PDF翻译，网页翻译
 - [hammerspoon](https://www.hammerspoon.org/) MacOS的自动化工具
 
+> 开发者工具
+
+- [Chrome Devtools文档](https://developer.chrome.com/docs/devtools) Chrome开发者工具文档
+
+> Clash
+
+- [Clash知识库](https://clash.wiki/) Clash文档，含使用文档和下载链接
+
 ## 资讯篇
 
 - [Aminer](https://www.aminer.cn/) AI科技情报分析与挖掘平台、论文查询
@@ -88,6 +96,10 @@
 > 软件源
 
 - [阿里云](https://developer.aliyun.com/mirror) 阿里云镜像源：yum、node、docker等等，操作系统镜像下载
+
+> 论文查询
+
+- [arxiv](https://arxiv.org/) 开放获取的档案库
 
 ## AI篇
 
@@ -108,6 +120,7 @@
 - [ChatGPT](https://chatgpt.com/) 支持创建智能体，联网查询，有内容丰富的应用市场 （$20/month）
 - [Grok](https://grok.com/) 支持深度研究、深度思考、文件查询
 - [Claude](https://claude.ai/) 免费版仅支持Claude-Sonnet3.5模型 （$20/month）
+- [PerplexityAI](https://www.perplexity.ai/) AI搜索工具
 
 > 大模型排行榜
 
