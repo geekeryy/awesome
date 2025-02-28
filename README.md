@@ -91,6 +91,16 @@
 
 - [Clash知识库](https://clash.wiki/) Clash文档，含使用文档和下载链接
 
+> Shell
+
+- [awesome-shell](https://github.com/alebcay/awesome-shell) shell工具库集合
+
+> Hexo
+
+- [Hexo](https://hexo.io/zh-cn/docs/) Hexo文档
+- [fluid](https://hexo.fluid-dev.com/docs/) hexo主题fluid的文档
+
+
 ## 资讯篇
 
 - [Aminer](https://www.aminer.cn/) AI科技情报分析与挖掘平台、论文查询
