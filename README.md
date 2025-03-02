@@ -22,6 +22,7 @@
 - [柴树杉](https://github.com/chai2010)
 - [fatedier](https://blog.fatedier.com/) 有istio相关内容
 - [小林coding](https://www.xiaolincoding.com/) 操作系统、mysql、redis、网络
+- [开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu) Linux网络、硬件工作原理
 
 ## 社区
 
@@ -114,6 +115,10 @@
 > 论文查询
 
 - [arxiv](https://arxiv.org/) 开放获取的档案库
+
+> 素材
+
+- [pexels](https://www.pexels.com/zh-cn/) 摄影作品分享网站
 
 ## AI篇
 
