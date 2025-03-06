@@ -119,6 +119,7 @@
 > 素材
 
 - [pexels](https://www.pexels.com/zh-cn/) 摄影作品分享网站
+- [阿里巴巴矢量图标库](https://www.iconfont.cn/) 高质量免费图标素材库
 
 ## AI篇
 
