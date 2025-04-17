@@ -117,9 +117,11 @@
 
 - [arxiv](https://arxiv.org/) 开放获取的档案库
 
-> 云服务器
+> 云平台
 
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) :star: 具有 DevOps 和 Infradev 感兴趣的免费层的 SaaS、PaaS 和 IaaS 产品列表
+- [google协作平台](https://sites.google.com/) 拖拽式网站生成器，可快速生成并发布一个带菜单栏的简单静态响应式网站，支持自定义域名
+- [cloudflare](https://www.cloudflare.com/) :star::star::star: 免费域名解析、SSL证书、ZeroTrust、构建和部署无服务器应用程序等等
 
 > 素材
 
