@@ -15,6 +15,9 @@
 
 ## 博客
 
+- [美团技术博客](https://tech.meituan.com) 综合全面 :star:
+- [arthurchiao](https://arthurchiao.art/articles-zh/) 深度技术笔记、优秀论文翻译 :star:
+- [酷壳](https://coolshell.cn) 左耳听风
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) :star::star::star: 教人如何造轮子
 - [冰霜之地](https://github.com/halfrost/Halfrost-Field)
 - [凉茶](https://www.yuque.com/mrcode.cn)
