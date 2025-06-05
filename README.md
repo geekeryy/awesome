@@ -13,6 +13,11 @@
 - [kubernetes实践指南](https://imroc.cc/kubernetes/) kubernetes和istio
 - [Docker-从入门到实践](https://yeasy.gitbook.io/docker_practice) Docker系统教程
 
+## 参考手册
+
+- [Bash参考手册](https://www.gnu.org/software/bash/manual/bash.html)
+- [Kubernetes官方文档](https://kubernetes.io/zh-cn/)
+
 ## 博客
 
 - [美团技术博客](https://tech.meituan.com) 综合全面 :star:
@@ -104,7 +109,6 @@
 
 - [Hexo](https://hexo.io/zh-cn/docs/) Hexo文档
 - [fluid](https://hexo.fluid-dev.com/docs/) hexo主题fluid的文档
-
 
 ## 资讯篇
 
