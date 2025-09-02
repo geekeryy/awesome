@@ -7,8 +7,8 @@
 ## 目标
 
 - 用不同标签标识资源类型（付费、免费、开源、基础、原理、源码、等等） [Github Markdown Emoji 完整列表](https://gist.github.com/rxaviers/7360908)
-    - 用:star:标识资源质量（:star:、:star::star:、:star::star::star:）
-    - 用:white_check_mark:标识资源是否亲测有效
+    - 用 :star: 标识资源质量（ :star: 、 :star::star: 、 :star::star::star: ）
+    - 用 :white_check_mark: 标识资源是否亲测有效
 - 分门别类进行整理（技术、生活、工具）
 - 按不同维度进行资源种类划分
 - 构建完整系统的知识网络
