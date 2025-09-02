@@ -2,7 +2,7 @@
 
 这是一个精心整理的资源库，收集了各种实用工具、博客、教程以及Github上的有趣项目。我们致力于持续更新，为你提供最新、最有价值的资源。
 
-- 欢迎大家的[PR](https://github.com/geekeryy/awesome/pulls)
+- 这里是[文档说明](instructions.md)，欢迎大家的 [PR](https://github.com/geekeryy/awesome/pulls)。
 
 ## 书籍
 
@@ -32,16 +32,13 @@
 - [fatedier](https://blog.fatedier.com/) 有istio相关内容
 - [小林coding](https://www.xiaolincoding.com/) 操作系统、mysql、redis、网络
 - [开发内功修炼](https://github.com/yanfeizhang/coder-kung-fu) Linux网络、硬件工作原理
+- [Easy 搞定 Golang设计模式](https://www.yuque.com/aceld/lfhu8y)
 
 ## 社区
 
 - [TalkGo](https://talkgo.org/) Go语言学习交流社区
 
-## 设计模式
-
-- [Easy 搞定 Golang设计模式](https://www.yuque.com/aceld/lfhu8y)
-
-## 中间件
+## 官方文档
 
 - [Etcd官方文档](https://doczhcn.gitbook.io/etcd) etcd文档
 
@@ -54,12 +51,14 @@
 
 ## 文本编辑
 
-- [Markdown语法速查](https://markdown.com.cn) :white_check_mark:
+- [Markdown语法速查](https://markdown.com.cn) 
   - [Github Markdown Emoji 完整列表](https://gist.github.com/rxaviers/7360908)
 
 ## 网站
 
-- [sms-activate](https://sms-activate.guru/cn) 接码平台，支持语言、短信验证
+- [sms-activate](https://sms-activate.guru/cn) :white_check_mark: 接码平台，支持语言、短信验证
+- [edu域名](https://www.cctld.kg/) :white_check_mark: 吉尔吉斯坦教育域名
+- [Linux命令速查](https://linux.jiangyang.online/) :star: Linux命令在线速查
 
 ## 探索篇
 
@@ -69,9 +68,9 @@
 
 ## 工具篇
 
-> 破解
+> 网络
 
-- [go-cursor-help](https://github.com/yuaotian/go-cursor-help) cursor无限续杯
+- [外网连通性检测](https://tcp.ping.pe/) :white_check_mark: 检测指定IP/域名能否从世界各地访问
 
 > 画图
 
@@ -135,6 +134,7 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) :star: 具有 DevOps 和 Infradev 感兴趣的免费层的 SaaS、PaaS 和 IaaS 产品列表
 - [google协作平台](https://sites.google.com/) 拖拽式网站生成器，可快速生成并发布一个带菜单栏的简单静态响应式网站，支持自定义域名
 - [cloudflare](https://www.cloudflare.com/) :star::star::star: 免费域名解析、SSL证书、ZeroTrust、构建和部署无服务器应用程序等等
+- [grafana cloud](https://grafana.com/) :star: 提供免费grafana相关监控服务
 
 > 素材
 
@@ -152,12 +152,13 @@
 
 > 在线AI聊天机器人
 
-- [Deepseek](https://chat.deepseek.com/) 支持深度推理、联网查询
+- [Gemini](https://aistudio.google.com/) :star::star::star: 支持充足免费额度的Gemini 2.5 Pro模型使用，需要非中国地区代理访问
+- [Deepseek](https://chat.deepseek.com/) :star: 支持深度推理、联网查询
 - [QWEN CHAT](https://chat.qwen.ai/) 支持模型切换、深度思考、联网搜索、生成图片和视频、使用工具、面向专业用户
+- [ChatGPT](https://chatgpt.com/) :star: 支持创建智能体，联网查询，有内容丰富的应用市场 （$20/month）
 - [腾讯元宝](https://yuanbao.tencent.com/) 支持深度思考、联网搜索、文件上传
 - [Kimi](https://kimi.moonshot.cn/) 支持文件、联网查询
 - [通义千问](https://tongyi.aliyun.com/qianwen/) 支持创建智能体，联网查询，有内容丰富的应用市场、面向普通用户
-- [ChatGPT](https://chatgpt.com/) 支持创建智能体，联网查询，有内容丰富的应用市场 （$20/month）
 - [Grok](https://grok.com/) 支持深度研究、深度思考、文件查询
 - [Claude](https://claude.ai/) 免费版仅支持Claude-Sonnet3.5模型 （$20/month）
 - [PerplexityAI](https://www.perplexity.ai/) AI搜索工具
