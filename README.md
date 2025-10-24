@@ -135,6 +135,7 @@
 - [google协作平台](https://sites.google.com/) 拖拽式网站生成器，可快速生成并发布一个带菜单栏的简单静态响应式网站，支持自定义域名
 - [cloudflare](https://www.cloudflare.com/) :star::star::star: 免费域名解析、SSL证书、ZeroTrust、构建和部署无服务器应用程序等等
 - [grafana cloud](https://grafana.com/) :star: 提供免费grafana相关监控服务
+- [免费云资源合集](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76) 一些免费的云资源
 
 > 素材
 
