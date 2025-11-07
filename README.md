@@ -65,12 +65,14 @@
 - [producthunt](https://www.producthunt.com/) 发现新技术和服务的好地方
 - [trendshift](https://trendshift.io/) 展示Github热门开源项目的平台，它根据时间和评分对项目进行排名
 - [RSSHub](https://github.com/DIYgod/RSSHub) :star: 开源RSS仓库
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) :star: 开源自托管软件列表
 
 ## 工具篇
 
 > 网络
 
 - [外网连通性检测](https://tcp.ping.pe/) :white_check_mark: 检测指定IP/域名能否从世界各地访问
+- [Cloudflare优选 IP](https://github.com/XIU2/CloudflareSpeedTest) 测试 Cloudflare CDN 延迟和速度，获取最快 IP
 
 > 画图
 
