@@ -126,6 +126,7 @@
 > 软件源
 
 - [阿里云](https://developer.aliyun.com/mirror) 阿里云镜像源：yum、node、docker等等，操作系统镜像下载
+- [pkgs.org](https://pkgs.org) 一个专门用于搜索和查找 Linux 软件包的网站
 
 > 论文查询
 
