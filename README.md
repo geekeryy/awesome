@@ -66,6 +66,7 @@
 - [trendshift](https://trendshift.io/) 展示Github热门开源项目的平台，它根据时间和评分对项目进行排名
 - [RSSHub](https://github.com/DIYgod/RSSHub) :star: 开源RSS仓库
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) :star: 开源自托管软件列表
+- [资料星球 · AI 与编程](https://resources.packscena.com/categories/ai/) 按主题浏览中文 AI 学习与编程资料，详情可先读资料介绍，再查看领取方式。
 
 ## 工具篇
 
